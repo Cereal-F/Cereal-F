@@ -1,10 +1,7 @@
 ## Bem-vindo(a) ao perfil do Cereal 😁
 
 <div align="center">
-  <a href="https://github.com/Cereal-F">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Cereal-F&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cereal-F&layout=compact&langs_count=6&theme=tokyonight" alt="Linguagens mais usadas" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cereal-F&layout=compact&langs_count=6&theme=tokyonight" alt="Linguagens mais usadas" />
 </div>
 
 <br>
@@ -17,4 +14,6 @@
 
 <br>
 
-![Snake animation](https://raw.githubusercontent.com/Cereal-F/Cereal-F/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Cereal-F/Cereal-F/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
