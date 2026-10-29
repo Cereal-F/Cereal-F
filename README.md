@@ -1,18 +1,14 @@
-## Bem-vindo(a) ao perfil do Cereal 😁
+# Bem-vindo(a) ao perfil do Cereal 👨‍💻
 
-<div align="center">
+<p align="center">
   <img src="https://vercel.app" alt="Linguagens mais usadas" />
-</div>
+</p>
 
-<br>
-
-<div align="center">
-  <img alt="JavaScript" height="30" width="40" src="https://githubusercontent.com">
-  <img alt="HTML5" height="30" width="40" src="https://githubusercontent.com">
-  <img alt="CSS3" height="30" width="40" src="https://githubusercontent.com">
-</div>
-
-<br>
+<p align="center">
+  <img alt="JavaScript" height="30" width="40" src="https://jsdelivr.net">
+  <img alt="HTML5" height="30" width="40" src="https://jsdelivr.net">
+  <img alt="CSS3" height="30" width="40" src="https://jsdelivr.net">
+</p>
 
 <p align="center">
   <img src="https://githubusercontent.com" alt="Snake animation" />
