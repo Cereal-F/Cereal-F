@@ -1,7 +1,7 @@
 ## Bem-vindo(a) ao perfil do Cereal 😁
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cereal-F&layout=compact&langs_count=6&theme=tokyonight" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cereal-F&layout=compact&langs_count=8&theme=tokyonight" alt="Linguagens mais usadas" />
 </div>
 
 <br>
@@ -10,6 +10,7 @@
   <img alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <!-- Podes adicionar mais ícones aqui se precisares, por exemplo: Python, C++, etc. -->
 </div>
 
 <br>
